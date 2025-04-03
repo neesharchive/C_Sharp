@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\bin\Debug\Var&Dynamic.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\bin\Debug\Var&Dynamic.exe
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\bin\Debug\Var&Dynamic.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\obj\Debug\Var&Dynamic.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\obj\Debug\Var&Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\obj\Debug\Var&Dynamic.exe
+C:\Users\nisha\source\repos\RISE_Practise\Var&Dynamic\obj\Debug\Var&Dynamic.pdb

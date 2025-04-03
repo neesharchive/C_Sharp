@@ -14,8 +14,10 @@ namespace Var_Dynamic
     {
         static void Main(string[] args)
         {
+
             var gender1=(Gender?)Gender.male;
             var gender2=Gender.female;
+            Console.WriteLine(gender1 is Gender);
             dynamic a0;
             Console.WriteLine(gender1);
             Console.WriteLine(gender2);
