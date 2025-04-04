@@ -106,6 +106,8 @@ namespace Strings
             int d;
             output(out d, 98);
             Console.WriteLine(d);
+            var a1 = Console.ReadLine();
+            Console.WriteLine(a1);
             Console.Read();
         }
     }
