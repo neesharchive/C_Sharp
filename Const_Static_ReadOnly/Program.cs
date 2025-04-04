@@ -8,20 +8,30 @@ using System.Threading.Tasks;
 
 namespace Const_Static_ReadOnly
 {
+    class A
+    {
+        public A() { }
+        public A(int x=12) { }
+    }
 
     class B
     {
+        public static int[] arr;
         public B()
         {
+            if (arr == null)
+                arr = new int[] { 10, 20, 30 };  // fallback
+
+            num = add(arr);
 
         }
-        public static int[] arr;
         public B(params int[] a)
         {
             arr = a;
         }
         public static int add(params int[] a)
         {
+            if (a == null) return 0;
             int sum = 0;
             for (int i = 0; i < a.Length; i++)
             {
