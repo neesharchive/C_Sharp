@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\bin\Debug\moreProperties.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\bin\Debug\moreProperties.exe
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\bin\Debug\moreProperties.pdb
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\obj\Debug\moreProperties.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\obj\Debug\moreProperties.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\obj\Debug\moreProperties.exe
+C:\Users\nisha\source\repos\RISE_Practise\moreProperties\obj\Debug\moreProperties.pdb
