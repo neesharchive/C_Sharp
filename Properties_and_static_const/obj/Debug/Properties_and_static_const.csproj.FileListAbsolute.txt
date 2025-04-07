@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\bin\Debug\Properties_and_static_const.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\bin\Debug\Properties_and_static_const.exe
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\bin\Debug\Properties_and_static_const.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\obj\Debug\Properties_and_static_const.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\obj\Debug\Properties_and_static_const.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\obj\Debug\Properties_and_static_const.exe
+C:\Users\nisha\source\repos\RISE_Practise\Properties_and_static_const\obj\Debug\Properties_and_static_const.pdb
