@@ -9,6 +9,7 @@ namespace moreProperties
 {
     public class Printer
     {
+
         public void Print()
         {
             int needed = pagecount();

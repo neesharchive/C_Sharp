@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\bin\Debug\CampusAccessSystem.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\bin\Debug\CampusAccessSystem.exe
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\bin\Debug\CampusAccessSystem.pdb
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\obj\Debug\CampusAccessSystem.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\obj\Debug\CampusAccessSystem.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\obj\Debug\CampusAccessSystem.exe
+C:\Users\nisha\source\repos\RISE_Practise\CampusAccessSystem\obj\Debug\CampusAccessSystem.pdb
