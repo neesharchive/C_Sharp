@@ -17,12 +17,15 @@ namespace CampusAccessSystem {
 
     public class Person
     {
-        public Roles role { get; set; }
+        public Person()
+        {
+            Console.WriteLine("Default Parent, Person");
+        }
         static int TotalPeople { get; set; }
         const String campus = "DeltaZero";
         public string Name { get; set; }
         public Department dept {  get; set; }
-        public Person(int ID)
+        public Person(int ID, Roles role)
         {
             TotalPeople++;
             Console.WriteLine($"Your Campus ID is {ID}");
@@ -41,12 +44,15 @@ namespace CampusAccessSystem {
 
     public class Student : Person
     {
-        const Roles role= Roles.Student;
-        public Student(int ID, int SID) : base(ID)
+        public Student():base()
+        {
+            Console.WriteLine("Default Child, Student");
+        }
+        public Student(int ID, int SID) : base(ID, Roles.Student)
         {
             Console.WriteLine($"Studnet ID is: {SID}");
         }
-        public Student(int ID, int SID, string Name) : base(ID)
+        public Student(int ID, int SID, string Name) : base(ID, Roles.Student)
         {
             this.Name = Name;
             Console.WriteLine($"Student ID: {SID}; Name: {Name}");
@@ -65,17 +71,20 @@ namespace CampusAccessSystem {
     }
     public class Faculty : Person
     {
-        
-        public Faculty(int ID, int FID) : base(ID)
+        public Faculty() : base()
+        {
+            Console.WriteLine("Default Child, Faculty");
+        }
+        public Faculty(int ID, int FID) : base(ID, Roles.Faculty)
         {
             Console.WriteLine($"Faculty ID: {ID} ");
         }
-        public Faculty(int ID, int FID, string Name) : base(ID)
+        public Faculty(int ID, int FID, string Name) : base(ID, Roles.Faculty)
         {
             this.Name=Name;
             Console.WriteLine($"Faculty ID: {FID}; Name: {Name}");
         }
-        public Faculty(int ID, int FID, string Name, Department Department) : base(ID)
+        public Faculty(int ID, int FID, string Name, Department Department) : base(ID,Roles.Faculty)
         {
             dept=Department;
             Console.WriteLine($"Faculty ID: {FID}; Name: {Name}; Department: {Department}");
@@ -88,12 +97,15 @@ namespace CampusAccessSystem {
     }
     public class Admin : Person
     {
-        static readonly Roles roles = Roles.Admin;
-        public Admin(int ID, int AID) : base(ID)
+        public Admin() : base()
+        {
+            Console.WriteLine("Default Child, Admin");
+        }
+        public Admin(int ID, int AID) : base(ID,Roles.Admin)
         {
             Console.WriteLine($"Admin: {AID}");
         }
-        public Admin(int ID, int AID, int DID) : base(ID)
+        public Admin(int ID, int AID, int DID) : base(ID,Roles.Admin)
         {
             dept=((Department)DID);
             Console.Write($"Admin ID: {AID} of Department ID: {dept}");
@@ -169,6 +181,12 @@ namespace CampusAccessSystem {
         }
         static void Main(string[] args)
         {
+/*          Student student = new Student();
+            Faculty faculty = new Faculty();
+            Admin A = new Admin();
+*/          
+            
+
             Console.Read();
         }
     }
