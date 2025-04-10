@@ -130,7 +130,7 @@ namespace CampusAccessSystem {
 
     Store the campus name.
 
-🔹 PROPERTIES
+🔹PROPERTIES
 
     Create auto-implemented properties for:
 
@@ -181,13 +181,11 @@ namespace CampusAccessSystem {
         }
         static void Main(string[] args)
         {
-/*          Student student = new Student();
+            Student student = new Student();
             Faculty faculty = new Faculty();
             Admin A = new Admin();
-*/          
-            
-
             Console.Read();
+            
         }
     }
 }

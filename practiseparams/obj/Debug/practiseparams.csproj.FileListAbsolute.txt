@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\bin\Debug\practiseparams.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\bin\Debug\practiseparams.exe
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\bin\Debug\practiseparams.pdb
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\obj\Debug\practiseparams.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\obj\Debug\practiseparams.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\obj\Debug\practiseparams.exe
+C:\Users\nisha\source\repos\RISE_Practise\practiseparams\obj\Debug\practiseparams.pdb
