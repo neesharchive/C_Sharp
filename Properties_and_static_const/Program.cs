@@ -11,6 +11,7 @@ namespace Properties_and_static_const
 
     class A
     {
+        
         public static int NUM {  get; set; }
         static int num;
         static string start = "Welcome to the program.";
