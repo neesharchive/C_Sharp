@@ -44,6 +44,7 @@ namespace CampusAccessSystem {
 
     public class Student : Person
     {
+
         public Student():base()
         {
             Console.WriteLine("Default Child, Student");
@@ -171,6 +172,8 @@ namespace CampusAccessSystem {
     Try to downcast back to a derived type to access extra properties/methods.*/
     internal class Program
     {
+        
+        
         static Program()
         {
             Console.WriteLine("Welcome to the Registration");
