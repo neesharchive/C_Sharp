@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\bin\Debug\Singleton1.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\bin\Debug\Singleton1.exe
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\bin\Debug\Singleton1.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\obj\Debug\Singleton1.exe
+C:\Users\nisha\source\repos\RISE_Practise\Singleton1\obj\Debug\Singleton1.pdb

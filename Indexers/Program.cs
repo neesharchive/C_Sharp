@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
+using System.Runtime.Remoting.Contexts;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Markup;
 
@@ -52,6 +55,7 @@ namespace Indexers
         }
 
     }
+
     public class B
     {
         A[] objects = new A[10];//array of A class type of objects
@@ -109,6 +113,11 @@ namespace Indexers
             Console.WriteLine(a[0]);
             Console.WriteLine(a[1]);
             Console.WriteLine(a[2]);
+            int x = 12;
+            object o = x;
+
+            
+            Console.WriteLine(o);
             Console.ReadLine();
         }
     }
