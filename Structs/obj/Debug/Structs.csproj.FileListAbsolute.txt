@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Structs.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Structs.exe
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Structs.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.exe
+C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.pdb
