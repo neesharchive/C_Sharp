@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\bin\Debug\UnsafePointers.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\bin\Debug\UnsafePointers.exe
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\bin\Debug\UnsafePointers.pdb
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\obj\Debug\UnsafePointers.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\obj\Debug\UnsafePointers.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\obj\Debug\UnsafePointers.exe
+C:\Users\nisha\source\repos\RISE_Practise\UnsafePointers\obj\Debug\UnsafePointers.pdb

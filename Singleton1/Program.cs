@@ -19,9 +19,9 @@ public abstract class Shape
 }
 
 //Create an abstract class Polygon that inherits Shape and:
-//    Overrides Describe() to add "I am a polygon."
-//    Does not implement Draw() yet
-//  Adds a new abstract method GetNumberOfSides()
+//Overrides Describe() to add "I am a polygon."
+//Does not implement Draw() yet
+//Adds a new abstract method GetNumberOfSides()
 public abstract class Polygon:Shape
 {
     public override void Describe()
