@@ -27,14 +27,23 @@ namespace Structs
     {
         public int x=12;
         public int y;
+        public string r;
     }
 
     internal class Program
     {
         static void Main(string[] args)
         {
+            
+            Travel t=new Travel();
+            Console.WriteLine(t.r.Length);
+            Console.WriteLine(t.r);
+            //why are reference allowed null when it can cause runtime
+            //issues
             Ticket ticket = new Ticket();
+            Console.WriteLine(ticket.name);
             Ticket ticket2;
+
             ticket2.name = "Nishant";
             ticket2.id = 1123;
             ticket.travel = new Travel();
