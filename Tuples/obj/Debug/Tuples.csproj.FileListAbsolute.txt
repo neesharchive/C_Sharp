@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\bin\Debug\Tuples.exe
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\bin\Debug\Tuples.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\obj\Debug\Tuples.exe
+C:\Users\nisha\source\repos\RISE_Practise\Tuples\obj\Debug\Tuples.pdb
