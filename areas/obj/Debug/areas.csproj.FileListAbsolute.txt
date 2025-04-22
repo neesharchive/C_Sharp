@@ -1,0 +1,6 @@
+C:\Users\nisha\source\repos\RISE_Practise\areas\bin\Debug\areas.dll
+C:\Users\nisha\source\repos\RISE_Practise\areas\bin\Debug\areas.pdb
+C:\Users\nisha\source\repos\RISE_Practise\areas\obj\Debug\areas.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\areas\obj\Debug\areas.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\areas\obj\Debug\areas.dll
+C:\Users\nisha\source\repos\RISE_Practise\areas\obj\Debug\areas.pdb

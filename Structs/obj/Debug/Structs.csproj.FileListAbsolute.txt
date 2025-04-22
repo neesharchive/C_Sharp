@@ -5,3 +5,7 @@ C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.csproj.Assem
 C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
 C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.exe
 C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Interfaceself1.exe
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Interfaceself1.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Structs\bin\Debug\Interfaceself1.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Structs\obj\Debug\Structs.csproj.Up2Date

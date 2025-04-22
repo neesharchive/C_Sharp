@@ -49,7 +49,7 @@ namespace CampusAccessSystem {
         {
             Console.WriteLine("Default Child, Student");
         }
-        public Student(int ID, int SID) : base(ID, Roles.Student)
+        public Student(int ID, int SID) : base(ID,Roles.Student)
         {
             Console.WriteLine($"Studnet ID is: {SID}");
         }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Interfaceself1;
 namespace Structs
 {
     interface availability
@@ -23,11 +23,18 @@ namespace Structs
         public Travel travel { get; set; }
 
     }
-    public class Travel
+    public class Travel:A
     {
         public int x=12;
         public int y;
         public string r;
+    }
+    public static class forA
+    {
+        public static void m1(this Travel t)
+        {
+            Console.WriteLine("HEYAAA");
+        }
     }
 
     internal class Program
@@ -36,7 +43,8 @@ namespace Structs
         {
             
             Travel t=new Travel();
-            Console.WriteLine(t.r.Length);
+            t.m1();
+            //Console.WriteLine(t.r.Length);
             Console.WriteLine(t.r);
             //why are reference allowed null when it can cause runtime
             //issues

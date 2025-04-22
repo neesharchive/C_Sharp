@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interfaceself1
 {
-    interface methods
+    public interface methods
     {
         string Name { get; }
         string Description { get; }

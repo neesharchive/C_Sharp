@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\bin\Debug\Operator Overloading.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\bin\Debug\Operator Overloading.exe
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\bin\Debug\Operator Overloading.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\obj\Debug\Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\obj\Debug\Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\obj\Debug\Operator Overloading.exe
+C:\Users\nisha\source\repos\RISE_Practise\Operator Overloading\obj\Debug\Operator Overloading.pdb

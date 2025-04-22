@@ -1,0 +1,6 @@
+C:\Users\nisha\source\repos\RISE_Practise\adders\bin\Debug\adders.dll
+C:\Users\nisha\source\repos\RISE_Practise\adders\bin\Debug\adders.pdb
+C:\Users\nisha\source\repos\RISE_Practise\adders\obj\Debug\adders.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\adders\obj\Debug\adders.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\adders\obj\Debug\adders.dll
+C:\Users\nisha\source\repos\RISE_Practise\adders\obj\Debug\adders.pdb

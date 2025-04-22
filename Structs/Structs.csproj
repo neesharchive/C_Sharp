@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Interfaceself1\Interfaceself1.csproj">
+      <Project>{438ca2a5-00c7-4e13-a700-c8d828f4523d}</Project>
+      <Name>Interfaceself1</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

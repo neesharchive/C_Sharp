@@ -1,0 +1,16 @@
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import2.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import2.exe
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import2.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import1.exe
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Interfaceself1.exe
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import1.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Import1.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Interfaceself1.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\Interfaceself1.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Import2\obj\Debug\Import2.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Import2\obj\Debug\Import2.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Import2\obj\Debug\Import2.csproj.Up2Date
+C:\Users\nisha\source\repos\RISE_Practise\Import2\obj\Debug\Import2.exe
+C:\Users\nisha\source\repos\RISE_Practise\Import2\obj\Debug\Import2.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\areas.dll
+C:\Users\nisha\source\repos\RISE_Practise\Import2\bin\Debug\areas.pdb
