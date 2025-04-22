@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\bin\Debug\DelegatesMulti.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\bin\Debug\DelegatesMulti.exe
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\bin\Debug\DelegatesMulti.pdb
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\obj\Debug\DelegatesMulti.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\obj\Debug\DelegatesMulti.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\obj\Debug\DelegatesMulti.exe
+C:\Users\nisha\source\repos\RISE_Practise\DelegatesMulti\obj\Debug\DelegatesMulti.pdb

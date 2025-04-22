@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\bin\Debug\DelegateSingle.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\bin\Debug\DelegateSingle.exe
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\bin\Debug\DelegateSingle.pdb
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\obj\Debug\DelegateSingle.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\obj\Debug\DelegateSingle.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\obj\Debug\DelegateSingle.exe
+C:\Users\nisha\source\repos\RISE_Practise\DelegateSingle\obj\Debug\DelegateSingle.pdb
