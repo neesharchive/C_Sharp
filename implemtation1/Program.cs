@@ -17,13 +17,15 @@ namespace implemtation1
     }
     public struct P
     {
-
+        public int x;
+        public int y;
         public string Name {  get; set; }
         public int Age { get; set; }
         public void show()
         {
             Class1 class1 = new Class1();
             class1.write();
+            class1.B();
         }
     }
     internal class Program
@@ -34,6 +36,7 @@ namespace implemtation1
             p.show();
             p.Name = "My Name";
             p.Age = 21;
+            
 
 
             Console.Read();

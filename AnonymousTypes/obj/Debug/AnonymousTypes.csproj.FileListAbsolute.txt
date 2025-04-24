@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

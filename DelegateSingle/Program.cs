@@ -10,11 +10,27 @@ namespace DelegateSingle
     {
         static int y=23;
     }
+    public partial struct STR
+    {
+        static int i = 4;
+        public partial class AA
+        {
+            public int x = 1;
+        }
+    }
+
 }
 
 namespace DelegateSingle
 {
+    public partial struct STR
+    {
+        public partial class AA
+        {
+            public int y = 14;
+        }
 
+    }
     partial class B
     {
         static int x=12;
@@ -47,6 +63,9 @@ namespace DelegateSingle
     {
         static void Main(string[] args)
         {
+            STR.AA A1= new STR.AA();
+            A1.x = 1;
+            A1.y = 3;
             B.show();
 
             Del1 d1;

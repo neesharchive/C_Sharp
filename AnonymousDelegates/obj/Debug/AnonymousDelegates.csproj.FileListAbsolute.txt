@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\obj\Debug\AnonymousDelegates.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\obj\Debug\AnonymousDelegates.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\nisha\source\repos\RISE_Practise\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
