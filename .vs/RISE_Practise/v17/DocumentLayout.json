@@ -1,12 +1,254 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174AE685-2624-455A-A218-6098A3C50982}|Tuples\\Tuples.csproj|c:\\users\\nisha\\source\\repos\\rise_practise\\tuples\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174AE685-2624-455A-A218-6098A3C50982}|Tuples\\Tuples.csproj|solutionrelative:tuples\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228C989-D408-4C6C-9E1A-9CA52F3E725B}|Collections2\\Collections2.csproj|c:\\users\\nisha\\source\\repos\\rise_practise\\collections2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228C989-D408-4C6C-9E1A-9CA52F3E725B}|Collections2\\Collections2.csproj|solutionrelative:collections2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C589B3D-7016-4D63-9B04-75C0FDA7C94B}|ExceptionHandling\\ExceptionHandling.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C589B3D-7016-4D63-9B04-75C0FDA7C94B}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0760F-70BD-4ABA-B70A-770339C084E2}|Collections\\Collections.csproj|c:\\users\\nisha\\source\\repos\\rise_practise\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F0760F-70BD-4ABA-B70A-770339C084E2}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC152B-E40E-4238-AFDD-6CCCDCD48311}|MoreCollections\\MoreCollections.csproj|c:\\users\\nisha\\source\\repos\\rise_practise\\morecollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC152B-E40E-4238-AFDD-6CCCDCD48311}|MoreCollections\\MoreCollections.csproj|solutionrelative:morecollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782BBD00-3523-4022-B29B-492EB11BBFAD}|AnonymousTypes\\AnonymousTypes.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782BBD00-3523-4022-B29B-492EB11BBFAD}|AnonymousTypes\\AnonymousTypes.csproj|solutionrelative:anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931167E-BDB6-42CC-8219-C0B82446518E}|AnonymousDelegates\\AnonymousDelegates.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\anonymousdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B931167E-BDB6-42CC-8219-C0B82446518E}|AnonymousDelegates\\AnonymousDelegates.csproj|solutionrelative:anonymousdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A076307D-9B72-453A-8E7B-3DE0234E8A45}|Generics_basics_1\\Generics_basics_1.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\generics_basics_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A076307D-9B72-453A-8E7B-3DE0234E8A45}|Generics_basics_1\\Generics_basics_1.csproj|solutionrelative:generics_basics_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FD6496-834F-4B80-9418-65E8B6D6E07B}|practiseparams\\practiseparams.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\practiseparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FD6496-834F-4B80-9418-65E8B6D6E07B}|practiseparams\\practiseparams.csproj|solutionrelative:practiseparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E071EFD-72E5-4ABB-84D9-A0A4BE43C8AB}|DelegateSingle\\DelegateSingle.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\delegatesingle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E071EFD-72E5-4ABB-84D9-A0A4BE43C8AB}|DelegateSingle\\DelegateSingle.csproj|solutionrelative:delegatesingle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459153E1-7B35-4C07-B2B6-4EB93F4229F5}|DelegatesMulti\\DelegatesMulti.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\delegatesmulti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459153E1-7B35-4C07-B2B6-4EB93F4229F5}|DelegatesMulti\\DelegatesMulti.csproj|solutionrelative:delegatesmulti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9856ECB6-1087-4795-B28B-61C71DA5ECF1}|implementation2\\implementation2.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implementation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9856ECB6-1087-4795-B28B-61C71DA5ECF1}|implementation2\\implementation2.csproj|solutionrelative:implementation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C328E7-E5FB-449E-87C1-A1D7D5036E99}|implemtation1\\implemtation1.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implemtation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C328E7-E5FB-449E-87C1-A1D7D5036E99}|implemtation1\\implemtation1.csproj|solutionrelative:implemtation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8717C3E1-FD39-4FD2-95FD-66937B64E2CC}|adders\\adders.csproj|C:\\Users\\nisha\\source\\repos\\RISE_Practise\\adders\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8717C3E1-FD39-4FD2-95FD-66937B64E2CC}|adders\\adders.csproj|solutionrelative:adders\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Tuples\\Tuple.cs",
+              "RelativeDocumentMoniker": "Tuples\\Tuple.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Tuples\\Tuple.cs",
+              "RelativeToolTip": "Tuples\\Tuple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:15:48.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Collections2\\Program.cs",
+              "RelativeDocumentMoniker": "Collections2\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Collections2\\Program.cs",
+              "RelativeToolTip": "Collections2\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAvwC8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:05:42.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\MoreCollections\\Program.cs",
+              "RelativeDocumentMoniker": "MoreCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\MoreCollections\\Program.cs",
+              "RelativeToolTip": "MoreCollections\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:24:35.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:19:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:06:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\AnonymousTypes\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\AnonymousTypes\\Program.cs",
+              "RelativeToolTip": "AnonymousTypes\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:32:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\AnonymousDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousDelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\AnonymousDelegates\\Program.cs",
+              "RelativeToolTip": "AnonymousDelegates\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:07:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\practiseparams\\Program.cs",
+              "RelativeDocumentMoniker": "practiseparams\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\practiseparams\\Program.cs",
+              "RelativeToolTip": "practiseparams\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:23:25.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Generics_basics_1\\Program.cs",
+              "RelativeDocumentMoniker": "Generics_basics_1\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\Generics_basics_1\\Program.cs",
+              "RelativeToolTip": "Generics_basics_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:20:23.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\DelegateSingle\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateSingle\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\DelegateSingle\\Program.cs",
+              "RelativeToolTip": "DelegateSingle\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:42:58.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implementation2\\Program.cs",
+              "RelativeDocumentMoniker": "implementation2\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implementation2\\Program.cs",
+              "RelativeToolTip": "implementation2\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:58:00.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implemtation1\\Program.cs",
+              "RelativeDocumentMoniker": "implemtation1\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\implemtation1\\Program.cs",
+              "RelativeToolTip": "implemtation1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:57:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\adders\\Class1.cs",
+              "RelativeDocumentMoniker": "adders\\Class1.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\adders\\Class1.cs",
+              "RelativeToolTip": "adders\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:57:04.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\DelegatesMulti\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesMulti\\Program.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\RISE_Practise\\DelegatesMulti\\Program.cs",
+              "RelativeToolTip": "DelegatesMulti\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:06:25.845Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
