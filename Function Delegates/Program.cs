@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Function_Delegates
 {
+    
     internal class Program
     {
+
         static void Main(string[] args)
         {
         }

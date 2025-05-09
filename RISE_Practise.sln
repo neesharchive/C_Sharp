@@ -87,6 +87,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreCollections", "MoreColl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections2", "Collections2\Collections2.csproj", "{7228C989-D408-4C6C-9E1A-9CA52F3E725B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function Delegates", "Function Delegates\Function Delegates.csproj", "{3C30619E-AFB7-43B4-A7B0-3B7D22400992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsRe", "CollectionsRe\CollectionsRe.csproj", "{CA254116-42EA-4743-A6F5-25F682AFB862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToFollow", "ToFollow", "{D82FE45B-7717-4307-AFF8-BAC5BE0EB635}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,6 +264,14 @@ Global
 		{7228C989-D408-4C6C-9E1A-9CA52F3E725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7228C989-D408-4C6C-9E1A-9CA52F3E725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7228C989-D408-4C6C-9E1A-9CA52F3E725B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C30619E-AFB7-43B4-A7B0-3B7D22400992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C30619E-AFB7-43B4-A7B0-3B7D22400992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C30619E-AFB7-43B4-A7B0-3B7D22400992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C30619E-AFB7-43B4-A7B0-3B7D22400992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA254116-42EA-4743-A6F5-25F682AFB862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA254116-42EA-4743-A6F5-25F682AFB862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA254116-42EA-4743-A6F5-25F682AFB862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA254116-42EA-4743-A6F5-25F682AFB862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

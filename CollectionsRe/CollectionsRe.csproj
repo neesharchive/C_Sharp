@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C30619E-AFB7-43B4-A7B0-3B7D22400992}</ProjectGuid>
+    <ProjectGuid>{CA254116-42EA-4743-A6F5-25F682AFB862}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Function_Delegates</RootNamespace>
-    <AssemblyName>Function Delegates</AssemblyName>
+    <RootNamespace>CollectionsRe</RootNamespace>
+    <AssemblyName>CollectionsRe</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadME.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

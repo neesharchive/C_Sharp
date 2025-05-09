@@ -1,0 +1,39 @@
+Understand what a namespace is in C#, how it's declared, and how it relates to folder and assembly structure.
+
+Understand the root namespace System and how all essential types like String, Int32, Object, Array, Delegate, Exception, Type, and Collections are defined inside it.
+
+Understand the difference between a namespace and an assembly (e.g., System.dll, System.Core.dll, etc.) and how types in System are split across them.
+
+Understand what an assembly is — a .dll or .exe that contains IL code, metadata, and manifest. Know the internal structure of an assembly (metadata tables, IL code, references, etc.).
+
+Understand how the Common Language Runtime (CLR) loads assemblies, resolves types, and executes code. Know what role the JIT plays here.
+
+Learn how the compiler turns your code into Intermediate Language (IL) and how System.Object, System.Int32, System.Collections.Generic.List<T>, etc., are represented in IL.
+
+Understand the full type system in .NET: value types (like int, bool, char) vs reference types (like string, object, arrays, classes). All ultimately derive from System.Object.
+
+Understand System.Object — what methods it defines (ToString, Equals, GetHashCode, GetType) and how every class in .NET implicitly inherits from it.
+
+Learn about System.Type and reflection — what happens when you write typeof(int) or call obj.GetType().
+
+Learn how generics are implemented under System.Collections.Generic and System.Collections.ObjectModel. Know that List<T> is defined under System.Collections.Generic.
+
+Understand System.Collections, the non-generic types (like ArrayList, Hashtable), and why they're legacy.
+
+Understand System.Linq as an extension namespace that works on top of System.Collections.Generic using delegates (Func<T>, Predicate<T>, etc.) defined in System.
+
+Learn how System.Delegate and System.MulticastDelegate are base classes for all function types, and how the compiler generates delegate types.
+
+Understand System.Exception, the exception hierarchy, and how try/catch works under the CLR.
+
+Understand System.IO for file streams, how the runtime opens files and maps them in memory using streams and buffers.
+
+Learn what System.Threading contains: Thread, Task, Mutex, Monitor, and how the runtime schedules execution across cores.
+
+Understand System.Console and how it's just a static class with output and input redirection tied to standard I/O handles managed by the OS.
+
+Learn how System.Attribute works — how metadata is attached to types and consumed using System.Reflection.
+
+Understand System.Diagnostics for performance tools, logging, tracing, and interacting with processes and event logs.
+
+Understand the difference between System.Runtime and System.Private.CoreLib — and how System types are compiled into the lowest-level assemblies like mscorlib or System.Private.CoreLib.dll.
