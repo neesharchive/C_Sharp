@@ -1,0 +1,31 @@
+﻿## Features
+
+- Demonstrates usage of built-in Func delegates in C#.  
+- Performs mathematical operations using Func<int, int, int>.  
+- Converts and transforms strings using Func<string, string>.  
+- Shows how to pass lambda expressions as parameters.  
+- Combines method execution with inline lambda logic.  
+
+## Methods
+
+- void Operate(int a, int b, Func<int, int, int> f)  
+  - Executes a binary operation on two integers using the provided Func delegate.  
+
+- string Convert(string s, Func<string, string> c)  
+  - Transforms a string using the provided Func delegate and returns the result.  
+
+## Usage Examples
+
+- Program.Operate(3, 4, (x, y) => x*x + y*y);  
+- Program.Operate(25, 64, (x, y) => y % x);  
+- Func<int, int> a = (x) => { x++; Console.WriteLine(x); return ++x; };  
+- Program.Convert("Nishant", x => x.ToLower());  
+- Program.Convert("Nishant", x => x.ToUpper());  
+- Convert("NISHANTnishant", x => "---" + x + "---");  
+
+## Notes
+
+- Uses Func delegates with both numeric and string operations.  
+- Lambdas are passed directly as parameters to simplify logic.  
+- Demonstrates return values and Console output from within lambdas.  
+- Shows how intermediate results can be reused or chained.  
