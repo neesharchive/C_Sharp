@@ -92,6 +92,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsRe", "CollectionsRe\CollectionsRe.csproj", "{CA254116-42EA-4743-A6F5-25F682AFB862}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToFollow", "ToFollow", "{D82FE45B-7717-4307-AFF8-BAC5BE0EB635}"
+	ProjectSection(SolutionItems) = preProject
+		System.txt = System.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections Practise", "Collections Practise\Collections Practise.csproj", "{C3DF9A41-6FCA-4731-A090-5E2E60B63DAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -272,6 +277,10 @@ Global
 		{CA254116-42EA-4743-A6F5-25F682AFB862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA254116-42EA-4743-A6F5-25F682AFB862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA254116-42EA-4743-A6F5-25F682AFB862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DF9A41-6FCA-4731-A090-5E2E60B63DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DF9A41-6FCA-4731-A090-5E2E60B63DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DF9A41-6FCA-4731-A090-5E2E60B63DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DF9A41-6FCA-4731-A090-5E2E60B63DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

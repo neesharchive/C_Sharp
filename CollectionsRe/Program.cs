@@ -36,20 +36,43 @@ namespace CollectionsRe
                 age = 21
             };
             //s.show();
-            
+            List<P> list2=new List<P>();
+            list2.AddRange(list);
+
             Console.WriteLine(s.GetType());
             Console.WriteLine(s.GetHashCode());
             list.Add(s);
             list.Insert(0, s);
             list.Remove(s);
-            list.RemoveRange(0, 5);
+            list.RemoveRange(0, 4);
             list.Clear();
-            list.AddRange(list);
-            
-            foreach(P p in list)
+            list.AddRange(list2);
+
+            foreach (P p in list)
             {
                 Console.WriteLine($"{p.id}: {p.name}, {p.age}: {typeof(P)}");
 
+            }
+
+            if (list.Exists((x) => x.name.StartsWith("N")))
+            {
+                Console.WriteLine("It does exist");
+            }
+            else
+            {
+                Console.WriteLine("It does not exist.");
+            }
+
+            P[] Parr= list.ToArray();
+            foreach(P p in Parr)
+            {
+                Console.WriteLine(p.id);
+            }
+
+            Dictionary<int, P> dict = list.ToDictionary(x=>x.id);
+            foreach (KeyValuePair<int, P> kvp in dict)
+            {
+                Console.WriteLine($"{kvp.Key}:{kvp.Value.name}");
             }
             Console.Read();
             

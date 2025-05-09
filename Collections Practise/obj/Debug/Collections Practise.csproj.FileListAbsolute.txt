@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\bin\Debug\Collections Practise.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\bin\Debug\Collections Practise.exe
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\bin\Debug\Collections Practise.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\obj\Debug\Collections Practise.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\obj\Debug\Collections Practise.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\obj\Debug\Collections Practise.exe
+C:\Users\nisha\source\repos\RISE_Practise\Collections Practise\obj\Debug\Collections Practise.pdb
