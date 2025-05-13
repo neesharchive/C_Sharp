@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\bin\Debug\Ref_Out_Params_Ambiguity.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\bin\Debug\Ref_Out_Params_Ambiguity.exe
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\bin\Debug\Ref_Out_Params_Ambiguity.pdb
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\obj\Debug\Ref_Out_Params_Ambiguity.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\obj\Debug\Ref_Out_Params_Ambiguity.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\obj\Debug\Ref_Out_Params_Ambiguity.exe
+C:\Users\nisha\source\repos\RISE_Practise\Ref_Out_Params_Ambiguity\obj\Debug\Ref_Out_Params_Ambiguity.pdb

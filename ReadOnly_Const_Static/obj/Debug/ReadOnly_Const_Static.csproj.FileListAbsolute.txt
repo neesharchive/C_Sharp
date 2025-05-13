@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\bin\Debug\ReadOnly_Const_Static.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\bin\Debug\ReadOnly_Const_Static.exe
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\bin\Debug\ReadOnly_Const_Static.pdb
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\obj\Debug\ReadOnly_Const_Static.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\obj\Debug\ReadOnly_Const_Static.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\obj\Debug\ReadOnly_Const_Static.exe
+C:\Users\nisha\source\repos\RISE_Practise\ReadOnly_Const_Static\obj\Debug\ReadOnly_Const_Static.pdb

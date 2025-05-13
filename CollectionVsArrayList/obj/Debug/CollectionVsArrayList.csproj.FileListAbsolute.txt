@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\bin\Debug\CollectionVsArrayList.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\bin\Debug\CollectionVsArrayList.exe
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\bin\Debug\CollectionVsArrayList.pdb
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\obj\Debug\CollectionVsArrayList.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\obj\Debug\CollectionVsArrayList.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\obj\Debug\CollectionVsArrayList.exe
+C:\Users\nisha\source\repos\RISE_Practise\CollectionVsArrayList\obj\Debug\CollectionVsArrayList.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6ADE2B7-FBBF-4435-A7FB-9279DCE60543}</ProjectGuid>
+    <ProjectGuid>{96A05CF2-C32F-4156-B710-9899F12EC123}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Func</RootNamespace>
-    <AssemblyName>Func</AssemblyName>
+    <RootNamespace>CollectionVsArrayList</RootNamespace>
+    <AssemblyName>CollectionVsArrayList</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,9 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

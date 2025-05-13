@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\bin\Debug\InterfaceVSAbstract.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\bin\Debug\InterfaceVSAbstract.exe
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\bin\Debug\InterfaceVSAbstract.pdb
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\obj\Debug\InterfaceVSAbstract.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\obj\Debug\InterfaceVSAbstract.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\obj\Debug\InterfaceVSAbstract.exe
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceVSAbstract\obj\Debug\InterfaceVSAbstract.pdb

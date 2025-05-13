@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6ADE2B7-FBBF-4435-A7FB-9279DCE60543}</ProjectGuid>
+    <ProjectGuid>{B0C42B39-BA63-4536-8159-5B27A4D71EBD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Func</RootNamespace>
-    <AssemblyName>Func</AssemblyName>
+    <RootNamespace>ReadOnly_Const_Static</RootNamespace>
+    <AssemblyName>ReadOnly_Const_Static</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TextFile1.txt" />
+    <Content Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,7 @@
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\bin\Debug\InterfaceClassCombo.exe.config
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\bin\Debug\InterfaceClassCombo.exe
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\bin\Debug\InterfaceClassCombo.pdb
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\obj\Debug\InterfaceClassCombo.csproj.AssemblyReference.cache
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\obj\Debug\InterfaceClassCombo.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\obj\Debug\InterfaceClassCombo.exe
+C:\Users\nisha\source\repos\RISE_Practise\InterfaceClassCombo\obj\Debug\InterfaceClassCombo.pdb
